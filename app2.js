@@ -65,6 +65,7 @@ async function start() {
     const multipleCards = await getMultiple(deck2Id, 2)
     for (let card of multipleCards) {console.log(stringFromCard(card))}
 
+    // 3
     pageDeckId = await shuffleReturnDeckID()
 
     // Event Listener for button click.
