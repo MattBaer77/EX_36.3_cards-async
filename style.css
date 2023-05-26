@@ -1,0 +1,22 @@
+.shuffle-button{
+    margin: 50px;
+}
+
+.center-div {
+    margin: 50px;
+}
+
+.facts-list-div {
+    width: 300px;
+}
+
+.facts-list {
+    text-align: left;
+}
+
+.card {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
